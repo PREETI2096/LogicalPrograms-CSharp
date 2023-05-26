@@ -1,0 +1,15 @@
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.exe
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.deps.json
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.runtimeconfig.json
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.dll
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\bin\Debug\net6.0\ReverseNumber.pdb
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.AssemblyReference.cache
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfoInputs.cache
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.AssemblyInfo.cs
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.dll
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\refint\ReverseNumber.dll
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.pdb
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ReverseNumber.genruntimeconfig.cache
+D:\LogicalPrograms\ReverseNumber\ReverseNumber\obj\Debug\net6.0\ref\ReverseNumber.dll
